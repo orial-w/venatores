@@ -1,0 +1,11 @@
+usedInDevelopment
+	smashicons
+	freepick
+	DinosoftLabs
+	Kiranshastry
+	Gregor Cresnar
+	Kiranshastry
+
+- AmmoOne = Bartama (Freepik)
+- target = Payungkead
+- dice = unknow
