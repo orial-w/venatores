@@ -1,3 +1,9 @@
+>>> If i used some of your icons (and i didn't give the credits) and you want credit for it or do you want me to remove them, please contact me (In the repository issues for while) <<<
+^^^^^^^^^
+READ THIS
+^^^^^^^^^
+
+
 usedInDevelopment
 	smashicons
 	freepick
@@ -8,4 +14,5 @@ usedInDevelopment
 
 - AmmoOne = Bartama (Freepik)
 - target = Payungkead
-- dice = unknow
+- dice = i dont know, sorry :(
+- other ones= flaticon (https://www.flaticon.com/)
